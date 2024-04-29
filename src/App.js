@@ -1,6 +1,6 @@
 
 import React, { useEffect, useContext, useReducer } from 'react';
-import { Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { Router, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
 // Counter context
